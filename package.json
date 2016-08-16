@@ -1,0 +1,26 @@
+{
+  "name": "test-anything",
+  "version": "1.0.0",
+  "description": "the tutorial of test of anything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangtuoparis13/test-anything.git"
+  },
+  "keywords": [
+    "unittest",
+    "nodejs"
+  ],
+  "author": "ZHANG Tuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangtuoparis13/test-anything/issues"
+  },
+  "homepage": "https://github.com/zhangtuoparis13/test-anything#readme",
+  "dependencies": {
+    "tape": "^4.6.0"
+  }
+}
