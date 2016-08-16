@@ -10,4 +10,5 @@ test('fancify', function (t) {
     t.equal(fancify('Wat', true), '~*~WAT~*~', 'Optionally makes it allcaps');
     t.equal(fancify('Wat', false, '%'), '~%~Wat~%~', 'Optionally allows to set the character');
     t.end()
-})
+});
+
